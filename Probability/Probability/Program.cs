@@ -30,6 +30,22 @@ internal class Program
         return _chance * 100m;
     }
     
+    private static async Task LagTFOut()
+    {
+        await Task.Run(() =>
+        {
+            List<ulong> lag = new List<ulong>();
+            lag.Add(28275985675015);
+            lag.Add(2827298275015);
+            lag.Add(2827558275015);
+            lag.Add(2827398275015);
+            lag.Add(2827598272015);
+            lag.Sort();
+            lag.Reverse();
+            lag.Contains(1723);
+        });
+    }
+    
     
     private static async Task StartGambling()
     {
@@ -92,7 +108,18 @@ internal class Program
 
     private static async Task Main(string[] args)
     {
-        Task task1 = TakeTheTest();
-        await Task.WhenAll(task1);
+        /*Task task1 = TakeTheTest();
+        await Task.WhenAll(task1);*/
+
+        while (true)
+        {
+            var tasks = new Task[1204573];
+
+            for (int i = 0; i < tasks.Length; i++)
+            {
+                tasks[i] = Task.Run(() => LagTFOut());
+            }
+            
+        }
     }
 }

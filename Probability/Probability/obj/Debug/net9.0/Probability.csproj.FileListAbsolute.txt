@@ -12,3 +12,18 @@ C:\Users\fkuba\RiderProjects\Probability\Probability\obj\Debug\net9.0\refint\Pro
 C:\Users\fkuba\RiderProjects\Probability\Probability\obj\Debug\net9.0\Probability.pdb
 C:\Users\fkuba\RiderProjects\Probability\Probability\obj\Debug\net9.0\Probability.genruntimeconfig.cache
 C:\Users\fkuba\RiderProjects\Probability\Probability\obj\Debug\net9.0\ref\Probability.dll
+C:\Users\fkuba\Desktop\lewe jaderko\probability\Probability\Probability\bin\Debug\net9.0\Probability.exe
+C:\Users\fkuba\Desktop\lewe jaderko\probability\Probability\Probability\bin\Debug\net9.0\Probability.deps.json
+C:\Users\fkuba\Desktop\lewe jaderko\probability\Probability\Probability\bin\Debug\net9.0\Probability.runtimeconfig.json
+C:\Users\fkuba\Desktop\lewe jaderko\probability\Probability\Probability\bin\Debug\net9.0\Probability.dll
+C:\Users\fkuba\Desktop\lewe jaderko\probability\Probability\Probability\bin\Debug\net9.0\Probability.pdb
+C:\Users\fkuba\Desktop\lewe jaderko\probability\Probability\Probability\obj\Debug\net9.0\Probability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fkuba\Desktop\lewe jaderko\probability\Probability\Probability\obj\Debug\net9.0\Probability.AssemblyInfoInputs.cache
+C:\Users\fkuba\Desktop\lewe jaderko\probability\Probability\Probability\obj\Debug\net9.0\Probability.AssemblyInfo.cs
+C:\Users\fkuba\Desktop\lewe jaderko\probability\Probability\Probability\obj\Debug\net9.0\Probability.csproj.CoreCompileInputs.cache
+C:\Users\fkuba\Desktop\lewe jaderko\probability\Probability\Probability\obj\Debug\net9.0\Probability.sourcelink.json
+C:\Users\fkuba\Desktop\lewe jaderko\probability\Probability\Probability\obj\Debug\net9.0\Probability.dll
+C:\Users\fkuba\Desktop\lewe jaderko\probability\Probability\Probability\obj\Debug\net9.0\refint\Probability.dll
+C:\Users\fkuba\Desktop\lewe jaderko\probability\Probability\Probability\obj\Debug\net9.0\Probability.pdb
+C:\Users\fkuba\Desktop\lewe jaderko\probability\Probability\Probability\obj\Debug\net9.0\Probability.genruntimeconfig.cache
+C:\Users\fkuba\Desktop\lewe jaderko\probability\Probability\Probability\obj\Debug\net9.0\ref\Probability.dll
